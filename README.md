@@ -33,9 +33,9 @@ Para salir del programa luego de la selección de los cuatro puntos presionar "Q
 
 Se utilizará como imagen base:
 
-![Imagen destino](images\SRC.jpg)
+![Imagen destino](SRC.jpg)
 
 A continuación se observa el resultado de la aplicación de la transformada: 
 
-![Resultado](images\resultado_tp3.jpg)
+![Resultado](resultado_tp3.jpg)
 
