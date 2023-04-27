@@ -24,7 +24,7 @@ Ayuda:
 
 Para correr el programa colocar en la consola:
 ```sh
-  python3 tp2.py
+  python3 tp3.py
   ```
 
 Para salir del programa luego de la selección de los cuatro puntos presionar "Q".
