@@ -1,4 +1,4 @@
-# Trabajo Práctico Nro. 3
+# Trabajo Práctico Nro. 3: Rectificando imágenes
 
 ## Consigna: 
 Teniendo en cuenta que:
